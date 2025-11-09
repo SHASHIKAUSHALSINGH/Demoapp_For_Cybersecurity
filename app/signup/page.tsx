@@ -1,5 +1,5 @@
-import { SignupForm } from "@/components/signup-form"
-import { ModeToggle } from "@/components/mode-toggle"
+import { SignupForm } from "@/components/signup-form";
+import { ModeToggle } from "@/components/mode-toggle";
 
 export default function Page() {
   return (
@@ -11,5 +11,5 @@ export default function Page() {
         <SignupForm />
       </div>
     </div>
-  )
+  );
 }

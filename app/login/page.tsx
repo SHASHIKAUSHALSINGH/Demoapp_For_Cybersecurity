@@ -1,5 +1,5 @@
-import { LoginForm } from "@/components/login-form"
-import { ModeToggle } from "@/components/mode-toggle"
+import { LoginForm } from "@/components/login-form";
+import { ModeToggle } from "@/components/mode-toggle";
 
 export default function Page() {
   return (
@@ -11,5 +11,5 @@ export default function Page() {
         <LoginForm />
       </div>
     </div>
-  )
+  );
 }
